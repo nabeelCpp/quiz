@@ -1,3 +1,5 @@
+##Install composer dependencies via any cli.
+composer install
 ## create database in localhost named machine_quiz
 ## Migrate tables to db
 php artisan migrate
